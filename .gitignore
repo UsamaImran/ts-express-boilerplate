@@ -1,0 +1,211 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor files
+.vscode/
+*.suo
+*.user
+*.sln
+*.tmp
+*.bak
+*.suo
+*.user
+*.sln
+*.tmp
+*.bak
+*.vbp
+*.ncb
+*.aps
+*.idl
+*.log
+*.obj
+*.pch
+*.asm
+*.exp
+*.lib
+*.dll
+*.map
+*.ilk
+*.pdb
+*.idb
+*.plg
+*.bsc
+*.scc
+*.vspscc
+*.userprefs
+*.filters
+*.ipch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.res
+*.tlb
+*.manifest
+*.localsettings.json
+
+# Testing
+/coverage/
+/test/reports/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE - Specific files
+# VIM
+.swp
+.swo
+.swm
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Grunt
+node_modules/grunt/
+
+# Bower
+bower_components/
+
+# Grunt cache
+.grunt/
+
+# PhantomJS cache
+.phantomjs/
+
+# Mocha test coverage
+coverage/
+
+# Visual Studio
+**/*.suo
+**/*.user
+**/*.sln
+**/*.tmp
+**/*.bak
+**/*.vbp
+**/*.ncb
+**/*.aps
+**/*.idl
+**/*.log
+**/*.obj
+**/*.pch
+**/*.asm
+**/*.exp
+**/*.lib
+**/*.dll
+**/*.map
+**/*.ilk
+**/*.pdb
+**/*.idb
+**/*.plg
+**/*.bsc
+***.scc
+**/*.vspscc
+**/*.userprefs
+**/*.filters
+**/*.ipch
+**/*.pgc
+**/*.pgd
+**/*.rsp
+**/*.sbr
+**/*.res
+**/*.tlb
+**/*.manifest
+**/*.localsettings.json
+
+# Model files
+*.db
+
+# Local environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.staging
+
+# Docker
+Dockerfile*
+docker-compose.*.yml
+.dockerignore
+
+# Editor preferences
+*.sublime-project
+*.sublime-workspace
+
+# IDE - Specific files
+*.iml
+.idea/
+
+# AWS
+.aws/
+
+# Heroku
+Procfile
+
+# Netlify
+.netlify/
+
+# Vercel
+.vercel/
+
+# Firebase
+firebase.json
+
+# Google Cloud Functions
+.runtimeconfig.json
+
+# Cypress
+.cypress/
+
+# Playwright
+playwright/
+
+# Testing libraries
+/test/fixtures/
+
+# Generated files
+/dist/
+/build/
+
+# Temporary files
+*.log
+*.tmp
+
+# Local configuration
+config.local.js
+*.config.local.*
+
+# Secrets
+secrets.json
+secrets.yml
+
+# Editor-specific files
+# VS Code
+.vscode/*
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# Vim
+.swp
+.swo
+.swm
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
